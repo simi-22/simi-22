@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=Slice&height=280&text=welcome!&desc=welcome%20my%20space&color=gradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Slice&height=150&text=welcome!&color=e5ddff&animation=fadeIn&fontColor=e9ecef)
