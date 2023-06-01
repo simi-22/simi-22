@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=Slice&height=150&text=welcome!&color=e5ddff&animation=fadeIn&fontColor=e9ecef)
+<div align="center">welcome!</div>
 
 </br>
-<h5 align="center"> I studying </h5>
+<h5 align="center"> I am studying </h5>
 
 </br>
 <div display="flex" align="center">
