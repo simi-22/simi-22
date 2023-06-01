@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **simi-22/simi-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-#fff?style=뱃지모양&logo=로고&logoColor=#c9c9c9"/></a>
+
+![header](https://capsule-render.vercel.app/api?type=Slice&height=280&text=welcome!&desc=welcome%20my%20repository&color=gradient&animation=fadeIn)
