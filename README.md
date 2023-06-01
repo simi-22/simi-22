@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&height=150&text=welcome!&color=e5ddff&animation=fadeIn&fontColor=e9ecef)
+
+</br>
+<div display="flex" align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=java&logoColor=white">
+</div>
