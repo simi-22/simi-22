@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
 </div>
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simi-22&layout=compact"><br><br>
 </div>
