@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <div align="center">Hi! I'm JaeEun</div>
 
 </br>
-<h5 align="center"> I am studying </h5>
-
+<h3 align="center"> Tech Stack </h3>
+<h5>Languages</h5>
 <div display="flex" align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/js-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=java&logoColor=white">
 </div>
 </br>
