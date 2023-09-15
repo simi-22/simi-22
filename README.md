@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 </br>
 <h3 align="center"> Tech Stack </h3>
-<h5 align="center">Languages</h5>
+<h5 align="center">Languages & library</h5>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -29,13 +29,14 @@ Here are some ideas to get you started:
 </div>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-1572B6?style=flat&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-884a9b?style=flat&logo=Bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-ffad20?style=flat&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 </div>
 </br>
 </br>
+<h5 align="center">Tool</h5>
 <div display="flex" align="center">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
 </div>
