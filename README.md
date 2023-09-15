@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 </br>
 <h5 align="center"> Tech Stack </h5>
-<p align="center" font-weight=100>Languages & library</p>
+<p align="center" font-size=12px>Languages & library</p>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simi-22&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=simi-22&show_icons=true">
 </div>
 
