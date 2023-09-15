@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <div align="center">Hi! I'm JaeEun</div>
 
 </br>
-<h4 align="center"> Tech Stack </h4>
-<h5 align="center" font-weight=100>Languages & library</h5>
+<h5 align="center"> Tech Stack </h5>
+<p align="center" font-weight=100>Languages & library</p>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -34,11 +34,14 @@ Here are some ideas to get you started:
 </div>
 </br>
 </br>
-<h5 align="center">Tool</h5>
+<p align="center">Tool</p>
 <div display="flex" align="center">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simi-22&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=simi-22&show_icons=true">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simi-22&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=simi-22&show_icons=true">
+</div>
+
