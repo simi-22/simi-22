@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <div align="center">Hi! I'm JaeEun</div>
 
 </br>
-<h5 align="center"> Tech Stack </h5>
-<p align="center" font-size=12px>Languages & library</p>
+<h3 align="center"> 💎 Tech Stack 💎 </h3>
+<p align="center"> 🔅 Languages & library 🔅</p>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 </br>
 </br>
-<p align="center">Tool</p>
+<p align="center"> 🛠️ Tool 🛠️</p>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
