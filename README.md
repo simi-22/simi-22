@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </br>
 <h5 align="center">Tool</h5>
 <div display="flex" align="center">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
 </div>
