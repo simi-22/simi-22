@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 </div>
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/ViteJS-646CFF?style=flat&logo=Vite&logoColor=white">
+   
 </div>
 </br>
 </br>
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white">
 </div>
 <br>
 <br>
