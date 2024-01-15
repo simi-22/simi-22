@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div display="flex" align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white"> -->
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=white">
   
    
