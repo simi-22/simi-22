@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simi-22&layout=compact"><br><br>
-</div>
+</div> -->
 
